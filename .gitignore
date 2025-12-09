@@ -2,3 +2,6 @@
 
 models/
 *.pt
+
+data/human_detection/
+data/train2017/
